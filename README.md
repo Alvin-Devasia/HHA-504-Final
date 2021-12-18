@@ -1,7 +1,7 @@
 HHA 504 Final
 
 Step 1
-Launcc the virtual machine
+Launch the virtual machine
 -Microsoft Azure
 -UBUNTU server with username and password
 -Ports 22(SSH) and 3306(MySQL)
